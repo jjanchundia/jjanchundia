@@ -36,3 +36,10 @@ conocimientos en diseño de Apis (desplegadas en .NET CORE).
 | man |manual de comandos generales|
 |cat|concatenar e imprimir archivos|
 |pwd|Imprimir directorio de trabajo|
+
+**Comandos Alias recomendados:**
+| Comando       | Descripción                         |
+| ------------- | ------------- |
+| alias **npmd** = "npm run dev"            | Alias para ejecutar un proyecto en Vite  |
+| alias **npms**= "npm start"  | Alias para ejecutar un proyecto en Create-React-App |
+|alais **cl** = "clear"|Alias para limpiar la terminal|
